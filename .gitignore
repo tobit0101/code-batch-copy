@@ -18,3 +18,6 @@ build/
 # OS specific files
 .DS_Store
 Thumbs.db
+
+# Session Safe
+.code_batch_copy.json
